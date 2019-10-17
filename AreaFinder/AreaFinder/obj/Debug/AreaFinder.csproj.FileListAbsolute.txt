@@ -1,0 +1,6 @@
+D:\Shirokov\AreaFinder\AreaFinder\AreaFinder\bin\Debug\AreaFinder.exe.config
+D:\Shirokov\AreaFinder\AreaFinder\AreaFinder\bin\Debug\AreaFinder.exe
+D:\Shirokov\AreaFinder\AreaFinder\AreaFinder\bin\Debug\AreaFinder.pdb
+D:\Shirokov\AreaFinder\AreaFinder\AreaFinder\obj\Debug\AreaFinder.csprojResolveAssemblyReference.cache
+D:\Shirokov\AreaFinder\AreaFinder\AreaFinder\obj\Debug\AreaFinder.exe
+D:\Shirokov\AreaFinder\AreaFinder\AreaFinder\obj\Debug\AreaFinder.pdb
